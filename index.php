@@ -3,6 +3,6 @@ class Foo
 {
     public function featureFoo()
     {
-        $this->doSomething($barFeatureBranch, $bazFeatureBranch);
+        $this->doSomething($barFeatureBranch, $bazFeatureBranch, $leTest);
     }
 }
